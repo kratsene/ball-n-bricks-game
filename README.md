@@ -9,12 +9,7 @@
 - **Dynamic Gameplay** – Classic brick-breaking mechanics with modern twists
 - **Smooth Physics** – Realistic ball physics and collision detection
 - **Progressive Difficulty** – Challenging levels that ramp up in intensity
-- **Intuitive Controls** – Tap-to-aim, drag-to-launch mechanics
-- **Stunning Visuals** – Vibrant graphics optimized for mobile devices
-- **Sound Effects** – Immersive audio feedback for every action
-- **Score System** – Compete for high scores with persistent leaderboards
-- **Responsive Design** – Plays perfectly on phones and tablets
-
+- 
 ---
 
 ## 📱 Screenshots
@@ -49,12 +44,12 @@
 
 | Platform | Download Link |
 |----------|---------------|
-| **iOS** | [App Store](https://apps.apple.com) |
-| **Android** | [Google Play Store](https://play.google.com/store) |
+| **iOS** | [NOT PUBLISHED](https://apps.apple.com) |
+| **Android** | [NOT PUBLISHED](https://play.google.com/store) |
 
 ### Web Version
 
-- **Play Online** – [Web Version](https://your-website.com)
+- **Play** – [DOWNLOAD LINK]([https://your-website.com](https://flamegamebyflutter.netlify.app/))
 
 ---
 
@@ -69,8 +64,8 @@
 ### Clone & Setup
 
 ```bash
-git clone https://github.com/yourusername/ball-and-brick.git
-cd ball-and-brick
+git clone https://github.com/kratsene/ball-n-brick.git
+cd ball-n-brick
 
 # Install dependencies
 flutter pub get
@@ -156,3 +151,4 @@ Have questions or feedback? Reach out!
 ---
 
 **Made with ❤️ using Flutter**
+
